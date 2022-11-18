@@ -1,0 +1,7 @@
+{
+  "name": "unimate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
